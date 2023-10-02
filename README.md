@@ -1,7 +1,7 @@
 #### Hi there 👋
 ## Seth Hatchett
 ### seth.hatchett@wsu.edu
-
+## Resume
 <!--
 **SethHatchett/SethHatchett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
