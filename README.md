@@ -1,6 +1,7 @@
-#### Hi there 👋
+#### Welcome! 👋
 ## Seth Hatchett
-### seth.hatchett@wsu.edu
+### Student email: seth.hatchett@wsu.edu
+#### Overview: Full-time WSU student working towards a degree in software engineering.
 ## [Resume](https://github.com/SethHatchett/SethHatchett/blob/main/Resume)
 <!--
 **SethHatchett/SethHatchett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
